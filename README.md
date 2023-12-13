@@ -21,7 +21,7 @@ This project implements a RESTful API using ASP.NET Core to retrieve the top N s
     GET /api/hackernews/beststories?n={number}
 
 ## Enhancements/Changes
-- Error handling and logging mechanisms for better debugging.
+- Error handling
 - Swagger integration for API documentation.
 
 
